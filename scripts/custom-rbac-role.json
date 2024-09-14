@@ -1,0 +1,15 @@
+{
+  "Name": "Custom Support Request43927074",
+  "Description": "A custom contributor role for support requests.",
+  "Actions": [
+    "Microsoft.Compute/*/read",
+    "Microsoft.Network/*/read",
+    "Microsoft.Support/*"
+  ],
+  "NotActions": [
+    "Microsoft.Support/register/providers"
+  ],
+  "AssignableScopes": [
+    "/providers/Microsoft.Management/managementGroups/az104-mg143927074"
+  ]
+}
