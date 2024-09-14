@@ -26,5 +26,5 @@ This demo project showcases how to manage Azure subscriptions using RBAC and cus
 - Action: Reviewed the Azure Activity Log to track changes and role assignments.
 
 Architecture Diagram
-RBACSubscription.png
+![RBAC Diagram](images/RBACSubscription.png)
 
